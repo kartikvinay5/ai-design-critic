@@ -3,3 +3,5 @@ opencv-python-headless
 Pillow
 openai
 numpy
+python-dotenv
+google-generativeai
